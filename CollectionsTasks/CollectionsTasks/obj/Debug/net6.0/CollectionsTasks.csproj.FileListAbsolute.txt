@@ -1,0 +1,15 @@
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\bin\Debug\net6.0\CollectionsTasks.exe
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\bin\Debug\net6.0\CollectionsTasks.deps.json
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\bin\Debug\net6.0\CollectionsTasks.runtimeconfig.json
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\bin\Debug\net6.0\CollectionsTasks.dll
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\bin\Debug\net6.0\CollectionsTasks.pdb
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.csproj.AssemblyReference.cache
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.AssemblyInfoInputs.cache
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.AssemblyInfo.cs
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.csproj.CoreCompileInputs.cache
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.dll
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\refint\CollectionsTasks.dll
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.pdb
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\CollectionsTasks.genruntimeconfig.cache
+C:\Users\javidai\Desktop\CollectionsTask\CollectionsTasks\CollectionsTasks\obj\Debug\net6.0\ref\CollectionsTasks.dll
